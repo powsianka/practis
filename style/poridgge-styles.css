@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-color:azure;
+    margin: 50px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+h1{
+    font-family: 'Bebas Neue', sans-serif; 
+    text-align: center; 
+    color:cornflowerblue;
+    font-size: 40px;
+}
+
+p{
+    font-family: 'Yanone Kaffeesatz', sans-serif; 
+    text-align: center; 
+    color: navy;
+}
+
+a{
+color:gold;
+text-decoration: none;
+font-size: 20px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#p1{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: left;
+    font-weight:bold;
+    color: red;
+    font-size: 20px;
+}
+#p2{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: right;
+    color: green;
+    font-size: 20px;
+}
+#p3{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: left;
+    font-weight:bold;
+    color: orange;
+    font-size: 20px;
+}
+#p4{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: right;
+    color: black;
+    font-size: 20px;
+}
